@@ -32,7 +32,7 @@ Pathorkuchi, Punnag, Royna, Tejpata, Telakucha, Thankuni, Vasaka
 
 🧠 Model Architecture (Simple CNN)
 
-Your model uses a lightweight CNN with layers such as:
+Model uses a lightweight CNN with layers such as:
 
 Conv2D
 
